@@ -3,9 +3,6 @@
 # 1Poison
 
 ## features
-- 약징
-- 고방 검색
-- 케이스 레포트
 
 ## Quick Start
 
