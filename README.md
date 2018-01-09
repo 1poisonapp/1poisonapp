@@ -2,7 +2,7 @@
 
 # 1Poison
 
-## features
+## Features
 
 ## Quick Start
 
